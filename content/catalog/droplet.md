@@ -7,7 +7,7 @@ status: released
 summary: Low-volume peristaltic dispenser for 96-well plates with software-calibrated
   volume presets.
 lead_time_days: 12
-design_repo_url: https://github.com/PricelessToolkit/Droplet
+design_repo_url: https://github.com/komal74784391-netizen/bramblewick-droplet-q4m9
 params:
 - name: dispense_volumes
   type: List[int]
