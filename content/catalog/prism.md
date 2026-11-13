@@ -7,7 +7,6 @@ status: released
 summary: Absorbance plate reader with swappable LED cassettes and scripted exposure
   profiles.
 lead_time_days: 18
-design_repo_url: https://github.com/komal74784391-netizen/bramblewick-prism-q4m9
 params:
 - name: wavelength_set
   type: List[int]
